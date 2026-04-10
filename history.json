@@ -1,0 +1,881 @@
+[
+  {
+    "datetime": "2026-04-08 00:48:35",
+    "filename": "audio_20260408_004832_3a648c3b7480491e9dd74a9379277da3.wav",
+    "emotion": "sad (38.7%)",
+    "transcription": "\u0bb9\u0bbe\u0baf\u0bcd \u0ba4\u0bbf\u0bb8\u0bcd \u0b87\u0bb8\u0bcd \u0bb5\u0bbe\u0baf\u0bcd\u0bb8\u0bcd \u0b8e\u0bae\u0bcb\u0bb7\u0ba9\u0bcd",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-08 00:47:52",
+    "filename": "audio_20260408_004708_822ad4c858734fda8a988583d787c91f.wav",
+    "emotion": "sad (35.9%)",
+    "transcription": "\u0bb9\u0bbe\u0baf\u0bcd \u0b95\u0bc1\u0b9f\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0ba9\u0bbf\u0b99\u0bcd \u0b90 \u0b85\u0bae\u0bcd \u0bb8\u0bcd\u0bb0\u0bc0 \u0b9a\u0bbe\u0baf\u0bcd",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-08 00:46:51",
+    "filename": "audio_20260408_004632_499d8a9756504f21991a6e2f3fd8a7f4.wav",
+    "emotion": "sad (26.3%)",
+    "transcription": "\u0bb9\u0bb2\u0bcb \u0b95\u0bc1\u0b9f\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0ba9\u0bbf\u0b99\u0bcd \u0b90 \u0b85\u0bae\u0bcd \u0b9a\u0bbe\u0bb0\u0bbf",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-08 00:14:17",
+    "filename": "audio_20260408_001411_f1c42079318047aa84d1fd74e524596f.wav",
+    "emotion": "sad (45.0%)",
+    "transcription": "hello good morning good morning",
+    "language": "English (en-US)",
+    "selected_language": "en-US"
+  },
+  {
+    "datetime": "2026-04-08 00:13:41",
+    "filename": "audio_20260408_001334_206a927a02e64b8f983f76fd7270e03f.wav",
+    "emotion": "surprised (45.7%)",
+    "transcription": "\u0bb9\u0bb2\u0bcb \u0b95\u0bc1\u0b9f\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0ba9\u0bbf\u0b99\u0bcd \u0b90 \u0b85\u0bae\u0bcd",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-08 00:13:09",
+    "filename": "audio_20260408_001252_24ee4c5f58f041dd8bf71b088563a9d1.wav",
+    "emotion": "sad (59.0%)",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-08 00:07:19",
+    "filename": "audio_20260408_000712_0c251d9929994cfd847f5b5a89fdfbe9.wav",
+    "emotion": "sad (51.0%)",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "en-US"
+  },
+  {
+    "datetime": "2026-04-08 00:06:39",
+    "filename": "audio_20260408_000623_2171ae8c7ac64f209c0feb0f53340567.wav",
+    "emotion": "happy (56.7%)",
+    "transcription": "kids talking by",
+    "language": "English (en-US)",
+    "selected_language": "en-US"
+  },
+  {
+    "datetime": "2026-04-07 23:42:03",
+    "filename": "audio_20260407_234159_2069231f54a649559d8a250299d2153c.wav",
+    "emotion": "calm (58.0%)",
+    "transcription": "\u0b9f\u0bbe\u0b95\u0bcd\u0bb8\u0bcd \u0b87\u0ba9\u0bcd",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-07 21:11:27",
+    "filename": "audio_20260407_211126_87da187c01744d9f9d997ff4fdda5452.wav",
+    "emotion": "calm (98.6%)",
+    "transcription": "\u0bb7\u0bc7\u0bb0\u0bcd\u0b9a\u0bbe\u0b9f\u0bcd \u0bb9\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-07 21:08:21",
+    "filename": "audio_20260407_210818_b9155616b5084837acaae3586634015f.wav",
+    "emotion": "calm (98.6%)",
+    "transcription": "\u0c1f\u0c3e\u0c15\u0c3f\u0c02\u0c17\u0c4d",
+    "language": "Telugu (te-IN)",
+    "selected_language": "te-IN"
+  },
+  {
+    "datetime": "2026-04-07 21:08:07",
+    "filename": "audio_20260407_210805_5965bddeb2644e17989b995ac4b5fa3a.wav",
+    "emotion": "neutral (56.2%)",
+    "transcription": "\u0b87\u0b9f\u0bcd\u0bb8\u0bcd \u0b86\u0bb0\u0bcd \u0b9f\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd \u0baa\u0bbe\u0ba4\u0bcd\u0ba4\u0bc1",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-07 21:07:51",
+    "filename": "audio_20260407_210735_d27cd2fc7a9e4fe39a0f6e52136d9772.wav",
+    "emotion": "sad (70.1%)",
+    "transcription": "\u0b95\u0bc7\u0ba9\u0bcd \u0baf\u0bc2 \u0b9f\u0bbe\u0b95\u0bcd \u0b87\u0ba9\u0bcd",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:28:10",
+    "filename": "audio_20260407_152808_2320e9ba7d1b438db4f7192ff8308a5e.wav",
+    "emotion": "disgust",
+    "transcription": "dogs are sitting by",
+    "language": "English (en-US)",
+    "selected_language": "en-US"
+  },
+  {
+    "datetime": "2026-04-07 15:27:08",
+    "filename": "audio_20260407_152706_655b06167e1a49e8a4305995c555dd2c.wav",
+    "emotion": "neutral",
+    "transcription": "dogs are sitting by the",
+    "language": "English (en-US)",
+    "selected_language": "en-US"
+  },
+  {
+    "datetime": "2026-04-07 15:26:59",
+    "filename": "audio_20260407_152658_e313e3a8636b4451af83254f91ce9254.wav",
+    "emotion": "neutral",
+    "transcription": "\u0b9f\u0bbe\u0b95\u0bcd\u0bb8\u0bcd \u0b85\u0bb2\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:26:52",
+    "filename": "audio_20260407_152650_9f836459ba9e4ff487c0a3dbb1e61894.wav",
+    "emotion": "neutral",
+    "transcription": "\u0915\u093f\u0921\u094d\u0938 \u0905\u0930\u0947 \u091f\u0949\u0915\u093f\u0902\u0917 \u092e\u0947\u0902",
+    "language": "Hindi (hi-IN)",
+    "selected_language": "hi-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:26:44",
+    "filename": "audio_20260407_152643_66b309a227cf42f2abea00ced331b5e3.wav",
+    "emotion": "sad",
+    "transcription": "\u0c95\u0cbf\u0c9a\u0ccd\u0c9a \u0c9f\u0cbe\u0c95\u0cbf\u0c82\u0c97\u0ccd",
+    "language": "Kannada (kn-IN)",
+    "selected_language": "kn-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:26:15",
+    "filename": "audio_20260407_152614_281414363b1e4861ab742693e1706ce8.wav",
+    "emotion": "neutral",
+    "transcription": "\u0d15\u0d3f\u0d21\u0d4d\u0d38\u0d4d \u0d1f\u0d4b\u0d15\u0d4d\u0d15\u0d3f\u0d19\u0d4d",
+    "language": "Malayalam (ml-IN)",
+    "selected_language": "ml-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:25:47",
+    "filename": "audio_20260407_152546_63a5616668814cfbb15426cadf4274e4.wav",
+    "emotion": "sad",
+    "transcription": "can you talking",
+    "language": "English (en-US)",
+    "selected_language": "kn-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:25:38",
+    "filename": "audio_20260407_152536_faecacc822b246f29c805a3994ff41b0.wav",
+    "emotion": "surprised",
+    "transcription": "dogs sitting for the",
+    "language": "English (en-US)",
+    "selected_language": "kn-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:25:19",
+    "filename": "audio_20260407_152516_74d60584aefe4b09954ad73b45917744.wav",
+    "emotion": "happy",
+    "transcription": "\u0c21\u0c3e\u0c17\u0c4d\u0c38\u0c4d \u0c05\u0c30\u0c4d \u0c38\u0c47\u0c35\u0c3f\u0c02\u0c17\u0c4d \u0c2a\u0c3e",
+    "language": "Telugu (te-IN)",
+    "selected_language": "te-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:25:10",
+    "filename": "audio_20260407_152508_f9edc8ed7d144f728e9aa85be70977c5.wav",
+    "emotion": "sad",
+    "transcription": "\u0921\u0949\u0917\u094d\u0938 \u0905\u0930\u0947 \u0938\u093f\u091f\u093f\u0902\u0917 \u092e\u0947\u0902",
+    "language": "Hindi (hi-IN)",
+    "selected_language": "hi-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:24:55",
+    "filename": "audio_20260407_152453_e07ea485d5f249b1974d2e1c58154697.wav",
+    "emotion": "sad",
+    "transcription": "\u0b95\u0bbf\u0b9f\u0bcd\u0bb8\u0bcd \u0b86\u0bb0\u0bcd \u0b9f\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd \u0baa\u0bbe",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:24:29",
+    "filename": "audio_20260407_152427_e7380df87ddc4906bfdcad51fb3f641a.wav",
+    "emotion": "sad",
+    "transcription": "talking by the",
+    "language": "English (en-US)",
+    "selected_language": "kn-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:24:12",
+    "filename": "audio_20260407_152409_53f9c84c8c3042f59aacc6df31da2f5e.wav",
+    "emotion": "sad",
+    "transcription": "Sagar Shri mediter",
+    "language": "English (en-US)",
+    "selected_language": "te-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:24:01",
+    "filename": "audio_20260407_152359_af043bebb5774bbdb0de19ea34d04f5d.wav",
+    "emotion": "surprised",
+    "transcription": "did you talking by the",
+    "language": "English (en-US)",
+    "selected_language": "te-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:23:47",
+    "filename": "audio_20260407_152345_a04dc90bfbc440b390f82b504df8c64a.wav",
+    "emotion": "calm",
+    "transcription": "\u0b95\u0bc7\u0ba9\u0bcd \u0baf\u0bc2 \u0b9f\u0bbe\u0b95\u0bcd \u0b87\u0ba9\u0bcd \u0baa\u0bbe\u0bb0",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:23:36",
+    "filename": "audio_20260407_152334_5b82d810ee6a41c8a647b81f12cb335e.wav",
+    "emotion": "fearful",
+    "transcription": "dogs are sitting by the",
+    "language": "English (en-US)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:23:28",
+    "filename": "audio_20260407_152326_1f9a750fa0544087b3b74eec6c96a251.wav",
+    "emotion": "sad",
+    "transcription": "dogs are sitting by the",
+    "language": "English (en-US)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:23:07",
+    "filename": "audio_20260407_152305_9bbfbd8b74bd40d1ac20d773a6cb97a6.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:22:48",
+    "filename": "audio_20260407_152240_b6fb40387cf24c3fba74d6bedda3c104.wav",
+    "emotion": "calm",
+    "transcription": "\u0bb9\u0bbe\u0baf\u0bcd \u0bae\u0bc8 \u0ba8\u0bc7\u0bae\u0bcd \u0b87\u0bb8\u0bcd \u0bb8\u0bcd\u0bb0\u0bc0 \u0b9a\u0bbe\u0baf\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd \u0b85\u0ba3\u0bcd\u0b9f\u0bcd \u0b95\u0bcb\u0baf\u0bbf\u0b99\u0bcd \u0b9f\u0bc1 \u0b9f\u0bbe\u0b95\u0bcd \u0bb5\u0bbf\u0ba4\u0bcd \u0b95\u0bca\u0bb8\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:20:04",
+    "filename": "audio_20260407_152003_6f82d03ecc4a460998089ed16cccd74e.wav",
+    "emotion": "calm",
+    "transcription": "\u0b95\u0bc7\u0ba9\u0bcd \u0baf\u0bc2 \u0b9f\u0bbe\u0b95\u0bcd",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:19:57",
+    "filename": "audio_20260407_151953_d9cb07f25682400eacfccbc33cf2df21.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:14:36",
+    "filename": "audio_20260407_151432_69976c40c1654ea1ba5b415a0153b9bb.wav",
+    "emotion": "surprised",
+    "transcription": "talking by the",
+    "language": "English (en-US)",
+    "selected_language": "kn-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:14:16",
+    "filename": "audio_20260407_151340_290974f5e7114c90971cdfe44d5e9eb6.wav",
+    "emotion": "calm",
+    "transcription": "dogs are sitting by the",
+    "language": "English (en-US)",
+    "selected_language": "te-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:10:43",
+    "filename": "audio_20260407_151042_e5287f6019a0479e8d22d310ae5a0679.wav",
+    "emotion": "calm",
+    "transcription": "\u0bb8\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd \u0b9c\u0bc6\u0bb0\u0bcd\u0b9a\u0bbf",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:10:30",
+    "filename": "audio_20260407_151028_9aa960f5bf634403a30def01959e9262.wav",
+    "emotion": "surprised",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:10:22",
+    "filename": "audio_20260407_151012_f9dfbdb28e69405bbe306629d45af94b.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-07 15:07:12",
+    "filename": "audio_20260407_150654_30a3484a2b99429e981ef5f9d78db82c.wav",
+    "emotion": "surprised",
+    "transcription": "talking by the",
+    "language": "English (en-US)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-05 21:25:50",
+    "filename": "audio_20260405_212542_977b9043df3743c8973e9191d08a187b.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "en-US"
+  },
+  {
+    "datetime": "2026-04-05 21:24:33",
+    "filename": "audio_20260405_212421_76b68ff8d0244069b4307fa1f3c96dfc.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "en-US"
+  },
+  {
+    "datetime": "2026-04-05 21:21:30",
+    "filename": "audio_20260405_212123_51fe1d2726074c5387b2477f5749c679.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-05 21:21:09",
+    "filename": "audio_20260405_212057_19d6e264a90243ad805133920206884b.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "en-US"
+  },
+  {
+    "datetime": "2026-04-05 21:05:20",
+    "filename": "audio_20260405_210511_9c46f0235de64a818aee8131ed907d2f.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-05 21:05:05",
+    "filename": "audio_20260405_210452_c393946000924e19baa1d3e9ef4bc0ea.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "en-US"
+  },
+  {
+    "datetime": "2026-04-05 21:03:27",
+    "filename": "audio_20260405_210314_bf5dd49a844d401a881224290b25373c.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-05 21:01:56",
+    "filename": "audio_20260405_210146_233c2cc1c4054120bfc9451cd3b45e47.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "hi-IN"
+  },
+  {
+    "datetime": "2026-04-05 21:01:31",
+    "filename": "audio_20260405_210123_0d2dd226ab6e40848fcfd385b9c92d19.wav",
+    "emotion": "calm",
+    "transcription": "\u0b95\u0bc7\u0ba9\u0bcd \u0baf\u0bc2 \u0b9f\u0bbe\u0b95\u0bcd",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-05 20:59:07",
+    "filename": "audio_20260405_205854_d8d6532c63894670b44bf4b5d15e5bb0.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-05 20:58:11",
+    "filename": "audio_20260405_205802_0fa3c5888ce343d781654c881180b610.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-05 20:57:57",
+    "filename": "audio_20260405_205744_bdfeed173e4e432196b7a6a8d46f9c5c.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-05 19:41:09",
+    "filename": "audio_20260405_194051_b08a5c516a964ca6aaf6b5dfe0ec1fef.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-05 19:40:29",
+    "filename": "audio_20260405_194016_a4057ebee68a4058817994ab59e1a107.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-05 19:39:53",
+    "filename": "audio_20260405_193941_0e919417745945eeb9c4724272fb5a9e.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2026-04-05 19:39:16",
+    "filename": "audio_20260405_193848_a96a95ea3ff847d581aaabba5d9eb63f.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "en-US"
+  },
+  {
+    "datetime": "2026-04-05 19:37:23",
+    "filename": "audio_20260405_193710_dc09d82da6a94f03859e8596759dc4b4.wav",
+    "emotion": "surprised",
+    "transcription": "kids are talking about the door",
+    "language": "English (en-US)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2025-10-19 10:41:45",
+    "filename": "audio_20251019_104140_a0315e33db0340d0897b15f1596645d3.wav",
+    "emotion": "calm",
+    "transcription": "\u0b9f\u0bbe\u0b95\u0bcd\u0b9a\u0bbf\u0ba9\u0bcd \u0baa\u0bb0\u0ba4\u0bcd \u0b9f\u0bcb\u0bb0\u0bcd",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2025-10-19 10:40:57",
+    "filename": "audio_20251019_104046_875f7302518a453b89a8a01a1de2c616.wav",
+    "emotion": "angry",
+    "transcription": "\u0b8e\u0ba9\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bcd \u0bb8\u0bcd\u0bb0\u0bc0 \u0b9a\u0bbe\u0baf\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd \u0ba8\u0bbe\u0ba9\u0bcd \u0b92\u0bb0\u0bc1 \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2025-10-19 10:39:25",
+    "filename": "audio_20251019_103917_e3438dee89df41fea6ec1b73370aa5af.wav",
+    "emotion": "fearful",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "en-US"
+  },
+  {
+    "datetime": "2025-10-19 10:38:24",
+    "filename": "audio_20251019_103817_4ab16403f442446a9aa4945b22fe3bad.wav",
+    "emotion": "angry",
+    "transcription": "good morning tomorrow we have Diwali celebration",
+    "language": "English (en-US)",
+    "selected_language": "en-US"
+  },
+  {
+    "datetime": "2025-10-19 10:38:09",
+    "filename": "audio_20251019_103757_601b8d1400914a74bfa9264025a71daf.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "en-US"
+  },
+  {
+    "datetime": "2025-10-19 10:36:55",
+    "filename": "audio_20251019_103647_e5bdd0db66444c7481f5573ae89b8844.wav",
+    "emotion": "angry",
+    "transcription": "\u0bb9\u0bbe\u0baf\u0bcd \u0b90 \u0b85\u0bae\u0bcd \u0bb8\u0bcd\u0bb0\u0bc0 \u0b9a\u0bbe\u0baf\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd \u0b90 \u0b85\u0bae\u0bcd \u0bb8\u0bcd\u0b9f\u0b9f\u0bbf\u0b99\u0bcd \u0b8e\u0bae\u0bcd\u0b8e\u0bb8\u0bcd\u0b9a\u0bbf \u0b9f\u0bc7\u0b9f\u0bcd \u0b86\u0baa\u0bcd \u0b9a\u0bc8",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2025-10-19 10:36:37",
+    "filename": "audio_20251019_103620_7df71d6450ac4be2bbd850d4de954428.wav",
+    "emotion": "fearful",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "en-US"
+  },
+  {
+    "datetime": "2025-10-17 12:01:01",
+    "filename": "audio_20251017_120051_4b8553eb39644fd5918d0b5f2f1f0695.wav",
+    "emotion": "calm",
+    "transcription": "\u0b8e\u0ba9\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bcd \u0bb8\u0bcd\u0bb0\u0bc0 \u0b9a\u0bbe\u0baf\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2025-10-17 11:45:44",
+    "filename": "audio_20251017_114537_288d6edd08564f94b48b50c64ef34b0f.wav",
+    "emotion": "happy",
+    "transcription": "\u0b9f\u0bbf\u0b9f\u0bcd \u0baf\u0bc2 \u0b9f\u0bbe\u0b95\u0bcd \u0b87\u0ba9\u0bcd \u0baa\u0bbe\u0ba4\u0bcd\u0bb0\u0bc2\u0bae\u0bcd",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2025-10-17 11:44:02",
+    "filename": "audio_20251017_114354_7379c6bc490f431dbae2aed6c9d34b42.wav",
+    "emotion": "angry",
+    "transcription": "\u0b8e\u0ba9\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bcd \u0bb8\u0bcd\u0bb0\u0bc0 \u0b9a\u0bbe\u0baf\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd \u0ba8\u0bbe\u0ba9\u0bcd \u0b92\u0bb0\u0bc1 \u0b95\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bbf \u0bae\u0bbe\u0ba3\u0bb5\u0ba9\u0bcd",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2025-10-17 11:43:49",
+    "filename": "audio_20251017_114339_55f43cde2ca84441a7ade24779d37dd6.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "en-US"
+  },
+  {
+    "datetime": "2025-10-17 11:42:43",
+    "filename": "audio_20251017_114234_8c573e473a7b4bd88f3669e8a09c2ca7.wav",
+    "emotion": "disgust",
+    "transcription": "hi my name is Sri Sai Kumar I am studying MSc",
+    "language": "English (en-US)",
+    "selected_language": "en-US"
+  },
+  {
+    "datetime": "2025-10-17 11:40:00",
+    "filename": "audio_20251017_113950_0eab44d5851d430a81eafbac29687a4d.wav",
+    "emotion": "angry",
+    "transcription": "\u0924\u0941\u092e\u094d\u0939\u093e\u0930\u093e \u0928\u093e\u092e \u0915\u094d\u092f\u093e \u0939\u0948",
+    "language": "Hindi (hi-IN)",
+    "selected_language": "hi-IN"
+  },
+  {
+    "datetime": "2025-10-17 11:39:14",
+    "filename": "audio_20251017_113901_13a34a995bdf459faf9ca1876aa091b3.wav",
+    "emotion": "sad",
+    "transcription": "\u0917\u093e\u0928\u093e",
+    "language": "Hindi (hi-IN)",
+    "selected_language": "hi-IN"
+  },
+  {
+    "datetime": "2025-10-17 11:32:43",
+    "filename": "audio_20251017_113240_642b61d520f544aebdd5c90b675aa0a0.wav",
+    "emotion": "sad",
+    "transcription": "\u0b9f\u0bbe\u0baa\u0bcd \u0ba8\u0bb0\u0bcd\u0b9a\u0bb0\u0bbf \u0b87\u0ba9\u0bcd \u0baa\u0bbe\u0ba4\u0bb0\u0bcd",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2025-10-17 11:30:37",
+    "filename": "audio_20251017_113028_e5e69017f37844808793670dfa321643.wav",
+    "emotion": "disgust",
+    "transcription": "\u0c39\u0c3e\u0c2f\u0c4d \u0c2c\u0c3e\u0c2c\u0c41 \u0c0f\u0c02 \u0c1a\u0c47\u0c38\u0c4d\u0c24\u0c3e\u0c35\u0c41 \u0c24\u0c3f\u0c28\u0c4d\u0c28\u0c3e\u0c35\u0c3e",
+    "language": "Telugu (te-IN)",
+    "selected_language": "te-IN"
+  },
+  {
+    "datetime": "2025-10-17 11:30:22",
+    "filename": "audio_20251017_112947_e070e2007800476bb652c528ce13d9fd.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "te-IN"
+  },
+  {
+    "datetime": "2025-10-17 11:29:22",
+    "filename": "audio_20251017_112914_db9bd78daaf64b1e9db608164cfbb0c1.wav",
+    "emotion": "calm",
+    "transcription": "my name is Sri Sai Kumar good morning good afternoon",
+    "language": "English (en-US)",
+    "selected_language": "en-US"
+  },
+  {
+    "datetime": "2025-10-17 11:28:53",
+    "filename": "audio_20251017_112845_fa867df7f43b415cb662e08ca74728cf.wav",
+    "emotion": "sad",
+    "transcription": "\u0b95\u0bc1\u0b9f\u0bcd \u0bae\u0bbe\u0bb0\u0bcd\u0ba9\u0bbf\u0b99\u0bcd \u0bae\u0bc8 \u0ba8\u0bc7\u0bae\u0bcd \u0b87\u0bb8\u0bcd \u0bb8\u0bcd\u0bb0\u0bc0 \u0b9a\u0bbe\u0baf\u0bcd \u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
+    "language": "Tamil (ta-IN)",
+    "selected_language": "ta-IN"
+  },
+  {
+    "datetime": "2025-10-17 11:28:38",
+    "filename": "audio_20251017_112823_a0b74206717045e6a8736fec26765803.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer.",
+    "language": "Unknown",
+    "selected_language": "en-US"
+  },
+  {
+    "datetime": "2025-10-17 08:33:49",
+    "filename": "audio_20251017_083341_02e3e11efdcb4f699f41653d70f11322.wav",
+    "emotion": "surprised",
+    "transcription": "\u0bb9\u0bbe\u0baf\u0bcd \u0bae\u0bc8 \u0ba8\u0bc7\u0bae\u0bcd \u0b87\u0bb8\u0bcd \u0bb8\u0bcd\u0bb0\u0bc0 \u0b9a\u0bbe\u0baf\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
+    "language": "Tamil (ta-IN)"
+  },
+  {
+    "datetime": "2025-10-17 08:33:41",
+    "filename": "audio_20251017_083326_52f5527bf8814358ab707e10309d27d0.wav",
+    "emotion": "disgust",
+    "transcription": "\u0bb9\u0bbe\u0baf\u0bcd \u0bae\u0bc8 \u0ba8\u0bc7\u0bae\u0bcd \u0b87\u0bb8\u0bcd \u0bb8\u0bcd\u0bb0\u0bc0 \u0b9a\u0bbe\u0baf\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
+    "language": "Tamil (ta-IN)"
+  },
+  {
+    "datetime": "2025-10-15 12:19:00",
+    "filename": "audio_20251015_121848_44de2499b6604139b706d43cea0a3515.wav",
+    "emotion": "sad",
+    "transcription": "\u0ba8\u0bbe\u0ba9\u0bcd \u0b95\u0bcb\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0b9a\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bc7\u0ba9\u0bcd \u0b8e\u0ba9\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bcd \u0b9a\u0bbe\u0baf\u0bcd\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0bcd",
+    "language": "Tamil (ta-IN)"
+  },
+  {
+    "datetime": "2025-10-15 11:06:32",
+    "filename": "audio_20251015_110540_e3c08f6f0ca742b487f74066dc3b6200.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio. Try speaking louder or clearer."
+  },
+  {
+    "datetime": "2025-10-15 11:05:38",
+    "filename": "audio_20251015_110527_8a54b7afafdb45eebd3627a04e7834f6.wav",
+    "emotion": "fearful",
+    "transcription": "Could not understand audio. Try speaking louder or clearer."
+  },
+  {
+    "datetime": "2025-10-15 11:05:21",
+    "filename": "audio_20251015_110515_1985c81f840d423a963cbe8bc168bbe3.wav",
+    "emotion": "sad",
+    "transcription": "this is my NLP project I am doing this for almost one month"
+  },
+  {
+    "datetime": "2025-10-15 11:04:52",
+    "filename": "audio_20251015_110444_00fd17b75bcc45dda87127a3a010d9db.wav",
+    "emotion": "calm",
+    "transcription": "talk just sitting by the door"
+  },
+  {
+    "datetime": "2025-10-15 10:31:00",
+    "filename": "audio_20251015_103046_d9310648132f45c7ac00f2a271a79d77.wav",
+    "emotion": "happy",
+    "transcription": ""
+  },
+  {
+    "datetime": "2025-10-15 10:30:39",
+    "filename": "audio_20251015_103035_5c5b1f19fa864c04bf34a9d646a71d46.wav",
+    "emotion": "neutral",
+    "transcription": ""
+  },
+  {
+    "datetime": "2025-10-15 10:30:23",
+    "filename": "audio_20251015_103011_c6cc66d017ad4af8a2e1d9aab17a7492.wav",
+    "emotion": "happy",
+    "transcription": ""
+  },
+  {
+    "datetime": "2025-10-15 10:25:55",
+    "filename": "audio_20251015_102545_71ea5c4ba9ff44518afccbe9238e9c37.wav",
+    "emotion": "happy",
+    "transcription": ""
+  },
+  {
+    "datetime": "2025-10-15 10:23:51",
+    "filename": "audio_20251015_102338_6e67feaae3f04579bfe7782adf183ac5.wav",
+    "emotion": "happy",
+    "transcription": ""
+  },
+  {
+    "datetime": "2025-10-15 10:22:28",
+    "filename": "audio_20251015_102223_69389716720247c09e7dbc23473c99bc.wav",
+    "emotion": "calm",
+    "transcription": ""
+  },
+  {
+    "datetime": "2025-10-15 10:19:02",
+    "filename": "audio_20251015_101845_c55400c1b1994f2982781cd0d5cbb125.wav",
+    "emotion": "happy",
+    "transcription": ""
+  },
+  {
+    "datetime": "2025-10-15 10:01:24",
+    "filename": "audio_20251015_100101_4dad9c9dfd0c4a07aa1e399ddc408301.wav",
+    "emotion": "disgust",
+    "transcription": "Could not understand audio."
+  },
+  {
+    "datetime": "2025-08-05 12:13:23",
+    "filename": "audio_20250805_121244_4adb7488afd64d009a775125f02aa548.wav",
+    "emotion": "happy",
+    "transcription": "hello my name is Sri Sai Kumar I am pursuing MSc data science 3rd year good morning everyone this is and this is my"
+  },
+  {
+    "datetime": "2025-08-05 12:11:26",
+    "filename": "audio_20250805_121111_83516950424e465a83479c260ef0a51e.wav",
+    "emotion": "neutral",
+    "transcription": "Speech recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed"
+  },
+  {
+    "datetime": "2025-08-05 09:23:08",
+    "filename": "audio_20250805_092224_e0092838fbea4fa9bec4a4741b2ceedc.wav",
+    "emotion": "happy",
+    "transcription": "good morning everybody and welcome to today's news today's news is brought you why Sri Sai Kumar of class MSc data"
+  },
+  {
+    "datetime": "2025-07-25 12:57:59",
+    "filename": "audio_20250725_125741_85e926c293824bb4b2ed304c74194ea9.wav",
+    "emotion": "surprised",
+    "transcription": "hi this is Shrimati I am studying at Coimbatore Institute of Technology I am doing and I'm pursuing MSc data science"
+  },
+  {
+    "datetime": "2025-07-25 12:56:06",
+    "filename": "audio_20250725_125554_4c95ce43f6294550abb52383d622e78f.wav",
+    "emotion": "disgust",
+    "transcription": "Could not understand audio."
+  },
+  {
+    "datetime": "2025-07-25 12:55:51",
+    "filename": "audio_20250725_125538_be38d35a30294dbe8e0731fdbdec37c8.wav",
+    "emotion": "surprised",
+    "transcription": "Could not understand audio."
+  },
+  {
+    "datetime": "2025-07-25 12:52:04",
+    "filename": "audio_20250725_125148_93f7e30be5714f88b3e7a22b856767de.wav",
+    "emotion": "happy",
+    "transcription": "hello my name is Sri Sai Kumar I am studying in Coimbatore Institute of technology Coimbatore MSc data science"
+  },
+  {
+    "datetime": "2025-07-25 12:40:29",
+    "filename": "audio_20250725_124023_b23b200a607a459b8f0dda4064271bf3.wav",
+    "emotion": "surprised",
+    "transcription": "Sona Mata"
+  },
+  {
+    "datetime": "2025-07-25 12:40:21",
+    "filename": "audio_20250725_124015_cf9aeaf6ce254eb2a727945e1a8f8752.wav",
+    "emotion": "sad",
+    "transcription": "Could not understand audio."
+  },
+  {
+    "datetime": "2025-07-25 12:01:54",
+    "filename": "audio_20250725_120150_5a505a218231409ba43660fc5c628c45.wav",
+    "emotion": "disgust",
+    "transcription": "I am so"
+  },
+  {
+    "datetime": "2025-07-25 12:01:31",
+    "filename": "audio_20250725_120124_ee0b7ddd445b4fac81c18bf63b3d746c.wav",
+    "emotion": "happy",
+    "transcription": "hi my name is sreej"
+  },
+  {
+    "datetime": "2025-07-25 11:54:59",
+    "filename": "audio_20250725_115452_dbcd346b459044e6b1ed0d212da23969.wav",
+    "emotion": "happy",
+    "transcription": "Sharath is a great coder"
+  },
+  {
+    "datetime": "2025-07-25 11:51:41",
+    "filename": "audio_20250725_115135_6a1ad675fe9346f384b404dc250a74e3.wav",
+    "emotion": "happy",
+    "transcription": "Shyam Sundar is great"
+  },
+  {
+    "datetime": "2025-07-25 11:50:04",
+    "filename": "audio_20250725_114959_74f7633ee50547ee96db18be8aa6a68d.wav",
+    "emotion": "disgust",
+    "transcription": "Sri Sai Kumar I am studying in co"
+  },
+  {
+    "datetime": "2025-07-25 11:44:03",
+    "filename": "audio_20250725_114359_4ed107752da24f0f9372d76ce96cfaeb.wav",
+    "emotion": "calm",
+    "transcription": "hello my name"
+  },
+  {
+    "datetime": "2025-07-25 11:43:38",
+    "filename": "audio_20250725_114330_c96d3b85671245ba83a0c9bdd5cb3801.wav",
+    "emotion": "calm",
+    "transcription": "can you talk in by the door"
+  },
+  {
+    "datetime": "2025-07-24 09:46:48",
+    "filename": "audio_20250724_094646_547188a7677a42db938daf6e86479697.wav",
+    "emotion": "calm",
+    "transcription": "can you talk in by the door"
+  },
+  {
+    "datetime": "2025-07-24 09:46:32",
+    "filename": "audio_20250724_094621_de683a929090406d88465209bf9baf56.wav",
+    "emotion": "calm",
+    "transcription": "can you talk in by the door"
+  },
+  {
+    "datetime": "2025-07-22 16:29:04",
+    "filename": "audio_20250722_162856_3f294466677643758b29cd3d2003287d.wav",
+    "emotion": "calm",
+    "transcription": "can you talk in by the door"
+  },
+  {
+    "datetime": "2025-07-22 16:28:38",
+    "filename": "audio_20250722_162833_72cb8fb136de4c3f8b5464fb5f03409f.wav",
+    "emotion": "calm",
+    "transcription": "can you talk in by the door"
+  },
+  {
+    "datetime": "2025-07-21 14:12:17",
+    "filename": "audio_20250721_141216_62fd3883211c4ec48ea65b8244bfa066.wav",
+    "emotion": "calm",
+    "transcription": "talk just sitting by the door"
+  },
+  {
+    "datetime": "2025-07-21 14:11:53",
+    "filename": "audio_20250721_141141_27a315f8690b4573b9ef5fb2c40e8a9b.wav",
+    "emotion": "calm",
+    "transcription": "talk just sitting by the door"
+  },
+  {
+    "datetime": "2025-07-17 20:27:31",
+    "filename": "audio_20250717_202730_1a0ef89e79234e77b4e501bca789a292.wav",
+    "emotion": "surprised",
+    "transcription": "can you talking by the door"
+  },
+  {
+    "datetime": "2025-07-17 20:27:03",
+    "filename": "audio_20250717_202700_d7f9eebfa524414394a26bb5bc9e48ac.wav",
+    "emotion": "calm",
+    "transcription": "can you talk in by the door"
+  },
+  {
+    "datetime": "2025-07-17 20:22:48",
+    "filename": "audio_20250717_202246_ae30dd9e67ec42fd90eaede5aa7ff3da.wav",
+    "emotion": "surprised",
+    "transcription": "can you talking about the door"
+  },
+  {
+    "datetime": "2025-07-17 20:22:33",
+    "filename": "audio_20250717_202229_e1fead369d304d6ea73be4e92d5d26c8.wav",
+    "emotion": "neutral",
+    "transcription": "dogs are sitting by the door"
+  },
+  {
+    "datetime": "2025-07-17 20:19:05",
+    "filename": "audio_20250717_201903_53189f34c7cb46beb30b6d1446c08b61.wav",
+    "emotion": "calm",
+    "transcription": "\u0921\u0949\u0917\u094d\u0938 \u0905\u0930\u0947 \u0938\u093f\u091f\u093f\u0902\u0917 \u092e\u0947\u0902 \u0925\u0947 \u0921\u094b\u0930",
+    "lang": "hi-IN"
+  },
+  {
+    "datetime": "2025-07-17 20:18:44",
+    "filename": "audio_20250717_201840_c83e4d8e916a48d0a23e7ed41974f183.wav",
+    "emotion": "calm",
+    "transcription": "dogs are sitting by the door",
+    "lang": "en-US"
+  }
+]
